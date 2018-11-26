@@ -31,7 +31,7 @@ dependencies {
     compile "io.micronaut:micronaut-inject"
     compile "io.micronaut:micronaut-validation"
     compile "io.micronaut:micronaut-runtime"
-    compileOnly 'com.oracle.substratevm:svm:1.0.0-rc7'
+    compileOnly 'com.oracle.substratevm:svm:1.0.0-rc8'
     compileOnly "io.micronaut:micronaut-inject-java"
     runtime "ch.qos.logback:logback-classic:1.2.3"
     runtime "io.micronaut:micronaut-graal"
